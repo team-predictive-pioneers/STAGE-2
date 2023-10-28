@@ -222,3 +222,5 @@ sns.heatmap(cek_after_engineering, annot=True)
 ![stg2.11](images_2/stg2.11.jpg)
 
 Dapat dilihat bahwa masih ada feature yang redundan dari hasil fitur engineering. Maka dari itu, kami akan mempertimbangkan apakah tetap akan memakai fitur tersebut atau dihapus saja.
+#   S T A G E - 2  
+ 
